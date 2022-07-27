@@ -1,6 +1,6 @@
 # Welcome to [Portfolio](https://hemantkumar76.github.io/)
 
-I’m Hemant, a **developer** and **CP Coder**. I can code in multiple 'languages':), experienced in writing efficient PYTHON scripts, C++ and C apps on all platforms (Mostly in vs code lol). I deeply care about building interfaces that are usable and easy to understand for the users on platforms like pc or mobile.
+I’m Hemant, a **developer**, **DSA learner** and **CP Coder**. I can code in multiple 'languages':), experienced in writing efficient PYTHON scripts, C++ and C apps on all platforms (Mostly in vs code lol). I deeply care about building interfaces that are usable and easy to understand for the users on platforms like pc or mobile.
 
 
 
